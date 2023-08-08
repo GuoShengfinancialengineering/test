@@ -161,5 +161,3 @@ y-py==0.5.9
 yarl==1.9.2
 ypy-websocket==0.8.2
 zipp==3.15.0
-pywin32==306
-pywinpty==2.0.10
